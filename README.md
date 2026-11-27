@@ -6,6 +6,13 @@ A tool to build 3D-printable CAD models for slip-over camera lens caps.
 
 <img src="./images/model.png" width="300">
 
+## Squeeze simulation
+
+The cap squeezed between two fingers in CalculiX (TPU 95A, 10 mm squeeze across
+the diameter, von Mises stress in MPa). See [fea/README.md](./fea/README.md).
+
+<img src="./images/squeeze.gif" width="500">
+
 ## Prerequisites
 Make sure you have `pip` and `python3` installed on your system. You can check by running on the command line:
 
