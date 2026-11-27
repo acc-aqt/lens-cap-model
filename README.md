@@ -11,6 +11,12 @@ A tool to build 3D-printable CAD models for slip-over camera lens caps.
 The cap squeezed between two fingers in CalculiX (TPU 95A, 10 mm squeeze across
 the diameter, von Mises stress in MPa). See [fea/README.md](./fea/README.md).
 
+Mesh and boundary conditions:
+
+<img src="./images/boundary-conditions.png" width="700">
+
+Deformation:
+
 <img src="./images/squeeze.gif" width="500">
 
 ## Prerequisites
