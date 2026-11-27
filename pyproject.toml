@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-build-lens-cap = "lens-cap-model.main:main"
+build-lens-cap = "lens_cap_model.main:main"
 
 
 [project.optional-dependencies]
