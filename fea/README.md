@@ -4,7 +4,7 @@ Simulates squeezing the elastomer lens cap between two fingers.
 
 ## Model
 
-- **Geometry:** the cap profile from `src/lens-cap-model/main.py`, including all
+- **Geometry:** the cap profile from `src/lens_cap_model/main.py`, including all
   four fillets. One quarter (x ≥ 0, y ≥ 0) is meshed with C3D20R hexahedra in cgx.
   The planes x = 0 and y = 0 are symmetry planes, which also stand in for the
   second finger at −x.

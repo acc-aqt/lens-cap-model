@@ -1,6 +1,6 @@
 """Build a CalculiX model of a slip-on lens cap squeezed between two fingers.
 
-The cap profile matches ``src/lens-cap-model/main.py``. A quarter of the cap
+The cap profile matches ``src/lens_cap_model/main.py``. A quarter of the cap
 (x >= 0, y >= 0) is meshed with cgx; a rigid flat pad stands in for the
 finger at +x and is pushed towards the axis. The planes x = 0 and y = 0 are
 symmetry planes, so the second finger at -x is implied.
